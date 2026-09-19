@@ -2,6 +2,8 @@
 
 ### The Arcane Tables · Offline Edition
 
+> Developed By Daniel Lantz, Built by Gabriel Cram.
+
 **Relicjack** is a single-file fantasy blackjack roguelite. Build a passive relic loadout, wager gold across five-round runs, unlock elemental casinos, collect rare artifacts, and climb through a local-only progression system.
 
 > Designed to run completely offline in a browser — including school Chromebooks.
