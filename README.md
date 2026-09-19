@@ -1,4 +1,4 @@
-# RelicJack
+# [RelicJack](https://7dny.github.io/RelicJack/) 
 
 ### The Arcane Tables · Offline Edition
 
