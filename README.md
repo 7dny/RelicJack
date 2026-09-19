@@ -1,4 +1,4 @@
-# RELICJACK
+# RelicJack
 
 ### The Arcane Tables · Offline Edition
 
